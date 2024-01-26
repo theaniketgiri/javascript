@@ -1,4 +1,6 @@
-let a=23
-for(let i=1; i<=a; i++){
-    console.log(i);
+// For loop
+
+const colors = ['red', 'green', 'blue'];
+for (let i = 0; i < colors.length; i++) {
+  console.log(colors[i]);
 }
